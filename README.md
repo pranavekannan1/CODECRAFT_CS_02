@@ -20,7 +20,7 @@ For example, with a shift of 3:
 
 ##  How to Use
 
-1. Run the Python file (`caesar_cipher.py`)
+1. Run the Python file (eg `caesar_cipher.py`)
 2. Choose:
    - `E` for encryption
    - `D` for decryption
